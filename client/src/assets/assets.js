@@ -14,6 +14,10 @@ import twitter_icon from './twitter_icon.svg'
 import profile_img_1 from './profile_img_1.png'
 import profile_img_2 from './profile_img_2.png'
 import credit_icon from './credit_icon.png'
+import profile_icon from './profile_icon.png'
+import email_icon from './email_icon.svg'
+import lock_icon from './lock_icon.svg'
+import cross_icon from './cross_icon.svg'
 
 export const assets = {
     logo,
@@ -29,7 +33,12 @@ export const assets = {
     google_plus_icon,
     twitter_icon,
     upload_btn_icon,
-    credit_icon
+    credit_icon,
+    profile_icon,
+    profile_img_1,
+    email_icon,
+    lock_icon,
+    cross_icon
 }
 
 export const testimonialsData = [
